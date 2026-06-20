@@ -13,6 +13,7 @@ This project was completed as part of the Walmart Virtual Experience Program.
 - check_data.py : Data inspection
 - check_db.py : Database schema inspection
 - check_count.py : Record count verification
+- Certificate PDF
 
 ## Output
 Successfully analyzed shipment and product data and verified database records.
